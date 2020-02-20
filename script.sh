@@ -85,7 +85,7 @@ fi
 # Make dir & get executables
 mkdir ~/Addmore
 cd ~/Addmore
-wget "https://github.com/AddmoreMining2020/Addmore/releases/download/1.0.0/addmore-ubuntu-x64-v1.0.0.zip"
+wget "https://github.com/AddmoreMining2020/Addmore/releases/download/v1.0.0/addmore-ubuntu-x64-v1.0.0.zip"
 unzip addmore-ubuntu-x64-v1.0.0.zip
 rm -rf addmore-ubuntu-x64-v1.0.0.zip
 rm -rf addmore-qt
