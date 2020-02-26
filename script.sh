@@ -79,7 +79,7 @@ if [ -d "Addmore" ]; then
 fi
 if [ -d ".addmore" ]; then
     rm -r .addmore
-    printf "${ERROR}Removed old datadir${RESET}\n"
+    printf "${ERROR}Removed old datadir${RESET}\n" 
 fi
 
 # Make dir & get executables
